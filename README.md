@@ -4,7 +4,7 @@
 
 Sadakath Hubify is an **AI-powered, all-in-one mobile and web application** built to help college students manage their academic journey with ease. From viewing attendance and exam results to organizing notes, receiving real-time college updates, and accessing an intelligent chatbot — Hubify integrates everything a student needs into one powerful platform.
 
-![Hubify Banner](docs/assets/banner.png) <!-- (Replace with your actual banner path if any) -->
+![Hubify Banner](docs/assets/assets/images/logo.png) 
 
 ---
 
