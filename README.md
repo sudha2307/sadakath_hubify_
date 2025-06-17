@@ -61,7 +61,13 @@ Sadakath Hubify is built for students in colleges where academic data is traditi
 - Use AI assistance for productivity, reminders, and doubt clarification.
 
 ---
+## Sample Login Details
 
+  Roll No - 22sit46
+  Password - sudha@23
+You can also use Register page for new users
+
+---
 ## 🖼️ Screenshots
 
 > _Add relevant screenshots here in a `/screenshots` folder and embed them like:_
