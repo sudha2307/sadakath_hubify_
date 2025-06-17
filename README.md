@@ -69,6 +69,24 @@ Sadakath Hubify is built for students in colleges where academic data is traditi
 ![UI Design](assets/images/HUBIFY.jpg)
 
 
+---
+## 📦 Installation
 
-![Dashboard](assets/images/Home.jpg)
-![Dashboard](assets/images/user.png)
+### Flutter Setup
+
+```
+git clone https://github.com/sudha2307/sadakath_hubify_.git
+cd sadakath_hubify_
+flutter pub get
+flutter run
+
+```
+
+## 📧 Contact
+
+Maintained by [Sudha]([https://www.linkedin.com/in/sudha2307](https://www.linkedin.com/in/sudhakar-m23))
+# Links
+[Instagram](https://www.instagram.com/_sudha_.exe/#)
+[Gmail](mailto:m.sudha23ss@gmail.com)
+
+
