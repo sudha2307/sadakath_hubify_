@@ -82,6 +82,39 @@ flutter run
 
 ```
 
+## 🔑 Important: Don’t Forget Before Running or Deploying Hubify
+Make sure to configure the following APIs and services properly:
+
+### ✅ Firebase API
+
+Set up Authentication (Email/Password or Google Sign-In)
+
+Enable Firestore Database
+
+Enable Firebase Storage if uploading files/notes
+
+Get your google-services.json (for Android) and firebase-config.js (for Web)
+
+### ✅ Gemini API (Google AI / Gemini Pro)
+
+Go to https://makersuite.google.com/app
+
+Generate an API key from Google AI Studio
+
+Store it securely (don’t push it to GitHub!)
+
+Use it for AI assistant/chatbot features
+
+### ✅ Dialogflow API (if used as fallback chatbot)
+
+Go to https://dialogflow.cloud.google.com/
+
+Create a new agent
+
+Enable Dialogflow API in Google Cloud Console
+
+Get service-account.json if backend requires authentication
+
 ## 📧 Contact
 
 Maintained by [Sudha]([https://www.linkedin.com/in/sudha2307](https://www.linkedin.com/in/sudhakar-m23))
