@@ -65,6 +65,10 @@ Sadakath Hubify is built for students in colleges where academic data is traditi
 ## 🖼️ Screenshots
 
 > _Add relevant screenshots here in a `/screenshots` folder and embed them like:_
-```markdown
+
 ![UI Design](assets/images/HUBIFY.jpg)
+
+
+
 ![Dashboard](assets/images/Home.jpg)
+![Dashboard](assets/images/user.png)
